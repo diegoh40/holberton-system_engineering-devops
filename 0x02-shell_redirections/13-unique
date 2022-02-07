@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list | uniq
+ls -1t | head -10
