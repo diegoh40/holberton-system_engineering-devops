@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1tp | grep -v -m 10 "/$"
+ls -1t | head -10
