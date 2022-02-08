@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BEST $school
+echo $BEST $School
