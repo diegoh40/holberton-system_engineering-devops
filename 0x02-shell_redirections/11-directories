@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdeph 1 - type d | wc -1
+find . - type d -print | wc -1
