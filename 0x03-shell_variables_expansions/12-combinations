@@ -1,3 +1,4 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr " " "\n" | vgrep "oo"
+echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+
 
